@@ -5,25 +5,25 @@ Implementation of the *jump point search* algorithm in pure Lua
 Script uses *txt* files as input and output, "in.txt" and "out.txt" respectively
 Input syntax:
 
-S__xx__xxx 
-___xx__xx_ 
-___x__x_x_ 
-xx___xx__x 
-xxx_______ 
-______xxx_ 
-______xxxF
+S\_\_xx\_\_xxx  
+\_\_\_xx\_\_xx\_  
+\_\_\_x\_\_x\_x\_  
+xx\_\_\_xx\_\_x  
+xxx\_\_\_\_\_\_\_  
+\_\_\_\_\_\_xxx\_  
+\_\_\_\_\_\_xxxF
 
 where S - start point, F - end point, x - wall, _ - walkable space
 
 Ouput:
 
-S__xx__xxx 
-*__xx__xx_ 
-***x__x_x_ 
-xx**_xx__x 
-xxx******* 
-______xxx* 
-______xxxF
+S\_\_xx\_\_xxx  
+\*\_\_xx\_\_xx\_  
+\*\*\*x\_\_x\_x\_  
+xx\*\*\_xx\_\_x  
+xxx\*\*\*\*\*\*\*  
+\_\_\_\_\_\_xxx\*  
+\_\_\_\_\_\_xxxF
 
 where * - point of path
 
