@@ -1,0 +1,14 @@
+S__xx__xxxx__xx__xxx______xxx_xx__xx_xx_
+*__xx__xx____xx__xxxxx___xx__x__________
+*__xx__xx_x__xx__xxxxx___xx__x______xxx_
+*__x__x_x_______xxx____x__x_x_______xxx_
+*__xx__xx_xx___xx__xxxx__________x__xxx_
+***x__x_x_______xxx_______xxx_xx__xx_xx_
+xx**_xx__x______xxx_xx___xx__x______xxx_
+xxx**********x__xxx_xx___xx__x______xxx_
+______xxx_xx*_xx_xx_______xxx_xx__xx_xx_
+______xxxxxx*_xx_xx****___xxx_xx__xx_xx_
+___x____x___********xx*_xxx__x______xxx_
+xxx__________x__xxx_xx*x****xx__xxxxxxx_
+xx___xx_________xxx_xx***xx*_x**********
+xxx__________x__xxx_xx___xx****_____xxxF
