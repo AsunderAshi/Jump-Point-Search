@@ -1,8 +1,8 @@
-#Maze-Solver#
+# Maze-Solver 
 Implementation of the *jump point search* algorithm in pure Lua
 
-##Usage##
-Script uses *txt* files as input and output, "in.txt" and "out.txt" respectively
+## Usage
+Script uses **txt** files as input and output, "**in.txt**" and "**out.txt**" respectively
 Input syntax:
 
 S\_\_xx\_\_xxx  
@@ -15,7 +15,7 @@ xxx\_\_\_\_\_\_\_
 
 where S - start point, F - end point, x - wall, _ - walkable space
 
-Ouput:
+## Ouput:
 
 S\_\_xx\_\_xxx  
 \*\_\_xx\_\_xx\_  
@@ -33,7 +33,7 @@ solve_maze module returns a function solve_maze(input_file, output_file),
 that can be run with different txt files as input and output.
 
 
-##Aditional info##
+## Aditional info
 Implementation of binary heap in binary_heap.lua was taken from:
 
 https://github.com/Yonaba/Binary-Heaps
