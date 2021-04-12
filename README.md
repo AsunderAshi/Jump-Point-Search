@@ -27,9 +27,9 @@ xxx\*\*\*\*\*\*\*
 
 where * - point of path
 
-Run solve_maze.lua via cmd
+Run **solve_maze.lua** via cmd
 
-solve_maze module returns a function solve_maze(input_file, output_file),
+*solve_maze* module returns a function *solve_maze(input_file, output_file)*,
 that can be run with different txt files as input and output.
 
 
